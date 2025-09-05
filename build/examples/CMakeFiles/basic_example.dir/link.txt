@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/basic_example.dir/link.d CMakeFiles/basic_example.dir/basic_example_autogen/mocs_compilation.cpp.o CMakeFiles/basic_example.dir/main.cpp.o -o basic_example  ../src/libqxormqtorm.a /usr/lib/x86_64-linux-gnu/libQt6Sql.so.6.4.2 /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2

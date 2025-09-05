@@ -1,4 +1,0 @@
-db2orm_autogen/timestamp: \
-	/home/runner/work/qxorm_qtorm/qxorm_qtorm/tools/CMakeLists.txt \
-	/home/runner/work/qxorm_qtorm/qxorm_qtorm/tools/db2orm.cpp \
-	/usr/local/bin/cmake
