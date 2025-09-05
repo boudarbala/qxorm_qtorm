@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqxormqtorm.a CMakeFiles/qxormqtorm.dir/qxormqtorm_autogen/mocs_compilation.cpp.o CMakeFiles/qxormqtorm.dir/database/sqlserverprovider.cpp.o CMakeFiles/qxormqtorm.dir/database/schemareader.cpp.o CMakeFiles/qxormqtorm.dir/codegen/qtormclassgenerator.cpp.o CMakeFiles/qxormqtorm.dir/codegen/sqlserverddlgenerator.cpp.o CMakeFiles/qxormqtorm.dir/codegen/cppparser.cpp.o CMakeFiles/qxormqtorm.dir/core/configuration.cpp.o CMakeFiles/qxormqtorm.dir/qxormqtorm.cpp.o
+/usr/bin/ranlib libqxormqtorm.a

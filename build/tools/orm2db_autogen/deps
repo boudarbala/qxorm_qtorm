@@ -1,0 +1,4 @@
+orm2db_autogen/timestamp: \
+	/home/runner/work/qxorm_qtorm/qxorm_qtorm/tools/CMakeLists.txt \
+	/home/runner/work/qxorm_qtorm/qxorm_qtorm/tools/orm2db.cpp \
+	/usr/local/bin/cmake

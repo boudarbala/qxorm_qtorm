@@ -16,15 +16,16 @@ public:
         QString namespacePrefix;
         QString classPrefix;
         QString classSuffix;
-        bool generateHeader = true;
-        bool generateQProperty = true;
-        bool generateQInvokable = true;
-        bool generateSignals = true;
-        QString headerGuardPrefix = "GENERATED";
-        QString indent = "    ";
+        bool generateHeader;
+        bool generateQProperty;
+        bool generateQInvokable;
+        bool generateSignals;
+        QString headerGuardPrefix;
+        QString indent;
     };
     
-    explicit QtOrmClassGenerator(const GenerationOptions& options = GenerationOptions{});
+    QtOrmClassGenerator();
+    explicit QtOrmClassGenerator(const GenerationOptions& options);
     
     /**
      * @brief Generate C++ classes for all tables in the schema

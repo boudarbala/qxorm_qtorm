@@ -1,0 +1,11 @@
+{
+    "provider": "sqlserver",
+    "verbose": true,
+    "namespacePrefix": "Models",
+    "classPrefix": "",
+    "classSuffix": "",
+    "sqlserver": {
+        "connectionString": "Server=localhost;Database=TestDB;Trusted_Connection=yes;",
+        "schemaMode": "update"
+    }
+}

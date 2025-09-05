@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/db2orm.dir/link.d CMakeFiles/db2orm.dir/db2orm_autogen/mocs_compilation.cpp.o CMakeFiles/db2orm.dir/db2orm.cpp.o -o db2orm  ../src/libqxormqtorm.a /usr/lib/x86_64-linux-gnu/libQt6Sql.so.6.4.2 /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2

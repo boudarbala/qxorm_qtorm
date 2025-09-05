@@ -5,6 +5,7 @@ set(SOURCES
     codegen/sqlserverddlgenerator.cpp
     codegen/cppparser.cpp
     core/configuration.cpp
+    qxormqtorm.cpp
 )
 
 set(HEADERS

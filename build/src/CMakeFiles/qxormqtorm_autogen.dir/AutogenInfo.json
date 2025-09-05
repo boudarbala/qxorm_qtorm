@@ -1,0 +1,154 @@
+{
+	"BUILD_DIR" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/qxormqtorm_autogen",
+	"CMAKE_BINARY_DIR" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/src",
+	"CMAKE_EXECUTABLE" : "/usr/local/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/qxormqtorm_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "qxormqtorm_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/codegen/cppparser.h",
+			"Mu",
+			"AS4YDANY4T/moc_cppparser.cpp",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/codegen/qtormclassgenerator.h",
+			"Mu",
+			"AS4YDANY4T/moc_qtormclassgenerator.cpp",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/codegen/sqlserverddlgenerator.h",
+			"Mu",
+			"AS4YDANY4T/moc_sqlserverddlgenerator.cpp",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/core/configuration.h",
+			"Mu",
+			"Y7RUMWLKAF/moc_configuration.cpp",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/database/schemareader.h",
+			"Mu",
+			"JIU55XUFMK/moc_schemareader.cpp",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/database/sqlserverprovider.h",
+			"Mu",
+			"JIU55XUFMK/moc_sqlserverprovider.cpp",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include/qxormqtorm/qxormqtorm.h",
+			"Mu",
+			"MVIRA5R7HS/moc_qxormqtorm.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/qxormqtorm_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/qxormqtorm_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NO_DEBUG", "QT_SQL_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include",
+		"/home/runner/work/qxorm_qtorm/qxorm_qtorm/include",
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt6/QtSql",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/qxormqtorm_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/CMakeFiles/qxormqtorm_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 4,
+	"SETTINGS_FILE" : "/home/runner/work/qxorm_qtorm/qxorm_qtorm/build/src/CMakeFiles/qxormqtorm_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/codegen/cppparser.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/codegen/qtormclassgenerator.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/codegen/sqlserverddlgenerator.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/core/configuration.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/database/schemareader.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/database/sqlserverprovider.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/runner/work/qxorm_qtorm/qxorm_qtorm/src/qxormqtorm.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

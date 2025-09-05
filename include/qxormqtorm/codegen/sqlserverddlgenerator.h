@@ -13,15 +13,16 @@ class SqlServerDdlGenerator
 public:
     struct DdlOptions
     {
-        bool includeDropStatements = false;
-        bool includeIndexes = true;
-        bool includeForeignKeys = true;
-        bool includeComments = true;
-        QString schemaName = "dbo";
-        QString indent = "    ";
+        bool includeDropStatements;
+        bool includeIndexes;
+        bool includeForeignKeys;
+        bool includeComments;
+        QString schemaName;
+        QString indent;
     };
     
-    explicit SqlServerDdlGenerator(const DdlOptions& options = DdlOptions{});
+    SqlServerDdlGenerator();
+    explicit SqlServerDdlGenerator(const DdlOptions& options);
     
     /**
      * @brief Generate DDL for entire database schema
